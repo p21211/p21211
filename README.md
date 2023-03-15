@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @p21211
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning web dev tech stack
+- 👀 I’m interested in Teach and busiiness related stuff
+- 🌱 I’m currently in prefinal year
 - 💞️ I’m looking to collaborate on a software enginerring project
    
 <!---
