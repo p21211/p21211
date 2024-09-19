@@ -1,9 +1,9 @@
-👋 Hey, it's Priyankaa! Prefinal year adventures and buzzing with excitement about all things business—let's turn dreams into reality! 🌱🚀
-
-**Embarking on a Digital Odyssey:** 🚀
-As I chart my course through the digital nebula, my mission goes beyond the syntax and semantics of code. 
-
-🌟 Count on me—I'm here for any help you need, whether it's a question, a challenge, or just a friendly chat!
+👋 Hey, it's Priyankaa! 😄 Pronouns: She/Her
+🔭 I’m currently a final year Student at IIIT Gwalior.
+👯 I Love System Design and DSA
+💬 Would Love to talk (Anything related to Tech)
+⚡ Fun fact: Using innovative technology and machine learning to address pressing issues
+🌟 Count on me—I'm here for any help you need, or just a friendly chat!
 
 🚀 Priyankaa Sarkar 🌟
 
