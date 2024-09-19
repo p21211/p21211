@@ -1,11 +1,11 @@
 👋 Hey, it's Priyankaa! 😄 Pronouns: She/Her
-🔭 I’m currently a final year Student at IIIT Gwalior.
-👯 I Love System Design and DSA
-💬 Would Love to talk (Anything related to Tech)
-⚡ Fun fact: Using innovative technology and machine learning to address pressing issues
-🌟 Count on me—I'm here for any help you need, or just a friendly chat!
-
-🚀 Priyankaa Sarkar 🌟
+- 🔭 I’m currently a final year Student at IIIT Gwalior.
+- 👯 I Love System Design and DSA 
+- 💬 Would Love to talk (Anything related to Tech) 
+- 😄 Pronouns: She/Her
+- ⚡ Fact: I love Tech
+- 🌟 Count on me—I'm here for any help you need, or just a friendly chat!
+  
 
 
 <!---
