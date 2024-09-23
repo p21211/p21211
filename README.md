@@ -2,7 +2,7 @@
 - 🔭 I’m currently a final year Student at IIIT Gwalior.
 - 👯 I Love System Design and DSA 
 - 💬 Would Love to talk (Anything related to Tech) 
-- ⚡ Fact: I'm passionate about technology and management.
+- ⚡ I'm passionate about technology and management.
 - 🌟 C++ || OOPS || System Design || SQL || Python
   
 
