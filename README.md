@@ -3,6 +3,7 @@
 - 🔭 I’m currently a final year Student at IIIT Gwalior.
 - 💬 Would Love to talk (Anything related to Tech) 
 - ⚡ I'm passionate about technology and management.
+- ✨ I love to work as Team Member.
 
   
 
