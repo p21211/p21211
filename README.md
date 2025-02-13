@@ -1,7 +1,7 @@
 👋 Hey, it's Priyankaa! 
 😄 Pronouns: She/Her
 - 🔭 I’m currently a final year Student at IIIT Gwalior.
-- 💬 Would Love to talk (Excel || SQL - Gold Badge Hacker Rank || Python || Machine Learning || Gen AI || Computer Vision ) 
+- 💬 Would Love to talk (Excel || SQL || Python || Machine Learning || Gen AI || Computer Vision ) 
 - ⚡ I'm passionate about technology and management.
 - ✨ I love to work as Team Member.
 
