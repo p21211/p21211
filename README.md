@@ -17,7 +17,6 @@
 💡 **What I Do:**  
 - **LLMs & Prompt Engineering** → Worked with **Meta-LLaMA-3-8B, LangChain, FAISS, Hugging Face** to optimize **AI interactions**.  
 - **AI Integration & Scalability** → Built and deployed AI solutions using **Python, TensorFlow, PyTorch, and Streamlit**.  
-- **Cloud & DevOps for AI** → Experience in **deploying AI models at scale** using **AWS, GCP, and serverless architectures**.  
 - **Cross-Functional Collaboration** → Worked with **product & engineering teams** to build AI-driven features that enhance **user experience**.  
  
 
