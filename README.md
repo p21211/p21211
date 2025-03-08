@@ -10,15 +10,9 @@
   👋 Hey, I'm Priyankaa!  
 😄 Pronouns: She/Her  
 
-🚀 **AI Projects Deploying | LLMs | Prompt Engineering | Gen AI | NLP | Machine Learning**  
+🚀 **AI Projects Deploying | LLMs | Prompt Engineering | Gen AI | NLP | Machine Learning || Reinforcement Learning || Deep Learning**  
 
 🎓 Final-year student at **IIIT Gwalior**, passionate about **AI development, LLMs, and scalable AI solutions**.  
-
-💡 **What I Do:**  
-- **LLMs & Prompt Engineering** 
-- **AI Integration & Scalability** 
-- **Cross-Functional Collaboration**
- 
 
 🤝 Let’s connect and discuss AI innovations!  
 
