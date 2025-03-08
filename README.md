@@ -15,15 +15,10 @@
 🎓 Final-year student at **IIIT Gwalior**, passionate about **AI development, LLMs, and scalable AI solutions**.  
 
 💡 **What I Do:**  
-- **LLMs & Prompt Engineering** → Worked with **Meta-LLaMA-3-8B, LangChain, FAISS, Hugging Face** to optimize **AI interactions**.  
-- **AI Integration & Scalability** → Built and deployed AI solutions using **Python, TensorFlow, PyTorch, and Streamlit**.  
-- **Cross-Functional Collaboration** → Worked with **product & engineering teams** to build AI-driven features that enhance **user experience**.  
+- **LLMs & Prompt Engineering** 
+- **AI Integration & Scalability** 
+- **Cross-Functional Collaboration**
  
-
-🔥 **Passionate about:**  
-- **Developing LLM-powered applications that drive real-world impact**  
-- **AI system reliability, performance, and security**  
-  
 
 🤝 Let’s connect and discuss AI innovations!  
 
